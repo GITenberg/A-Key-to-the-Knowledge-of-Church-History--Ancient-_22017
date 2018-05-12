@@ -1,0 +1,27 @@
+_repo: A-Key-to-the-Knowledge-of-Church-History--Ancient-_22017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blunt, John Henry
+    birthdate: 1823
+    deathdate: 1884
+    gutenberg_agent_id: '25040'
+    url: http://www.gutenberg.org/2009/agents/25040
+description: ''
+gutenberg_issued: '2007-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Middle Ages, 600-1500'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcc 'BR'
+title: A Key to the Knowledge of Church History (Ancient)
+url: http://www.gutenberg.org/ebooks/22017
